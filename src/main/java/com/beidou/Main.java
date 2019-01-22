@@ -1,5 +1,6 @@
 package com.beidou;
 
+import com.beidou.service.RedissonService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

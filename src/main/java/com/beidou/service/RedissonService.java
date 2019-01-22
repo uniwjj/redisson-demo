@@ -1,4 +1,4 @@
-package com.beidou;
+package com.beidou.service;
 
 import org.redisson.api.RedissonClient;
 import org.springframework.beans.factory.annotation.Autowired;
